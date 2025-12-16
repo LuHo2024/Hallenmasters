@@ -7,7 +7,7 @@
     "score1": 5,
     "score2": 6,
     "status": "live",
-    "duration": 11111,
+    "duration": 300,
     "startTime": null
   },
   {
@@ -18,7 +18,7 @@
     "score1": 0,
     "score2": 0,
     "status": "pending",
-    "duration": 400
+    "duration": 300
   },
   {
     "id": 3,
@@ -28,7 +28,7 @@
     "score1": 0,
     "score2": 0,
     "status": "pending",
-    "duration": 400
+    "duration": 300
   },
   {
     "id": 4,
@@ -38,7 +38,7 @@
     "score1": 0,
     "score2": 0,
     "status": "pending",
-    "duration": 400
+    "duration": 300
   },
   {
     "id": 5,
@@ -48,7 +48,7 @@
     "score1": 0,
     "score2": 0,
     "status": "pending",
-    "duration": 400
+    "duration": 300
   },
   {
     "id": 6,
@@ -58,7 +58,7 @@
     "score1": 0,
     "score2": 0,
     "status": "pending",
-    "duration": 400
+    "duration": 300
   },
   {
     "id": 7,
@@ -68,7 +68,7 @@
     "score1": 0,
     "score2": 0,
     "status": "pending",
-    "duration": 400
+    "duration": 300
   },
   {
     "id": 8,
@@ -78,7 +78,7 @@
     "score1": 0,
     "score2": 0,
     "status": "pending",
-    "duration": 400
+    "duration": 300
   },
   {
     "id": 9,
@@ -88,7 +88,7 @@
     "score1": 0,
     "score2": 0,
     "status": "pending",
-    "duration": 400
+    "duration": 300
   },
   {
     "id": 10,
@@ -98,7 +98,7 @@
     "score1": 0,
     "score2": 0,
     "status": "pending",
-    "duration": 400
+    "duration": 300
   },
   {
     "id": 11,
@@ -108,7 +108,7 @@
     "score1": 0,
     "score2": 0,
     "status": "pending",
-    "duration": 400
+    "duration": 300
   },
   {
     "id": 12,
@@ -118,7 +118,7 @@
     "score1": 0,
     "score2": 0,
     "status": "pending",
-    "duration": 400,
+    "duration": 300,
     "startTime": null
   },
   {
@@ -129,7 +129,7 @@
     "score1": 0,
     "score2": 0,
     "status": "pending",
-    "duration": 400,
+    "duration": 300,
     "startTime": null
   },
   {
@@ -140,7 +140,7 @@
     "score1": 0,
     "score2": 0,
     "status": "pending",
-    "duration": 400
+    "duration": 300
   },
   {
     "id": 15,
@@ -150,7 +150,7 @@
     "score1": 0,
     "score2": 0,
     "status": "pending",
-    "duration": 400,
+    "duration": 300,
     "startTime": null
   },
   {
@@ -161,7 +161,7 @@
     "score1": 0,
     "score2": 0,
     "status": "pending",
-    "duration": 400,
+    "duration": 300,
     "startTime": null
   }
 ]
