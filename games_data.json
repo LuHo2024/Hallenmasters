@@ -139,8 +139,9 @@
     "team2": "3. Gruppe A",
     "score1": 0,
     "score2": 0,
-    "status": "pending",
-    "duration": 300
+    "status": "live",
+    "duration": 300,
+    "startTime": 1765912468
   },
   {
     "id": 15,
