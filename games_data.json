@@ -6,8 +6,9 @@
     "team2": "Punkt(9a+b)",
     "score1": 0,
     "score2": 4,
-    "status": "pending",
-    "duration": 400
+    "status": "live",
+    "duration": 400,
+    "startTime": null
   },
   {
     "id": 2,
